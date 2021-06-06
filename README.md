@@ -1,5 +1,5 @@
 # ClassRoster
-WGU C867: Scripting and Programming - Applications - Spring 2021
+WGU C867: Scripting and Programming - Applications - Spring 2021<br>
 University class roster project completed for WGU C867.
 
 # What I Learned
